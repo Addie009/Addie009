@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-  - Bike Purchase (https://github.com/adedatasets/LABURL)
+  - Bike Purchase (https://github.com/Addie009/BikePurchase))
 
 <h2> 🤳 Connect with me:</h2>
 
