@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
   - COVID-19 PROJECT (https://public.tableau.com/app/profile/adepitan.adebodun))
-  - BIKE PURCHASES   (https://github.com/Addie009/BikePurchase))
+  - SALES PROJECT  (https://public.tableau.com/app/profile/adepitan.adebodun/viz/SalesDashboard1_16906215436460/SalesDashboard))
 
 <h2> 🤳 Connect with me:</h2>
 
