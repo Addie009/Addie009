@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
   - COVID-19 PROJECT (https://public.tableau.com/app/profile/adepitan.adebodun))
-  - SALES PROJECT  (https://public.tableau.com/app/profile/adepitan.adebodun/viz/SalesDashboard1_16906215436460/SalesDashboard))
+  - SALES PROJECT  (https://public.tableau.com/app/profile/adepitan.adebodun/viz/SalesDashboard2_16906216119220/SalesDashboard2))
 
 <h2> 🤳 Connect with me:</h2>
 
