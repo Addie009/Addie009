@@ -4,7 +4,7 @@
 
   - COVID-19 PROJECT (https://public.tableau.com/app/profile/adepitan.adebodun/viz/Coviddashboardproject_16900685990970/Dashboard1))
   - SALES PROJECT  (https://public.tableau.com/app/profile/adepitan.adebodun/viz/SalesDashboard2_16906216119220/SalesDashboard2))
-  - BIKESTORE PROJECT  (https://public.tableau.com/app/profile/adepitan.adebodun/viz/BikestoreDashboard_16907545573450/Dashboard1))
+  - BIKESTORE PROJECT  (https://1drv.ms/x/s!ArsSMgoRJ59iglzWpLCQrFJL_spo?e=IXM2ld))
 
 <h2> 🤳 Connect with me:</h2>
 
